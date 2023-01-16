@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khaoulaouifaya
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning SPRING
+- 🌱 I’m currently learning ANGULAR
 - 💞️ I’m looking to collaborate on PROJECT OPEN SOURCE
 - 📫 How to reach me in my career
 
