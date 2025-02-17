@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @khaoulaouifaya
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning ANGULAR
+- 👋 Hi, I’m Khaoula ouifaya
+- 👀 I’m interested in JAVA/ReactJS
 - 💞️ I’m looking to collaborate on PROJECT OPEN SOURCE
 - 📫 How to reach me in my career
 
